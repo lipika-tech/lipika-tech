@@ -1,3 +1,4 @@
+![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
 <h1 align="center">Hi 👋, I'm Lipika Sharma</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2SjSamm8FJoAAAAd/diegodrawsart-women-and-girls-in-science.gif">
