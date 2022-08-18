@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/@erlipika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@erlipika" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lipikasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lipikasharma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/aarushcoachingclasses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/aarushcoachingclasses" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aarushcoachingclasses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aarushcoachingclasses" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lipika-tech&show_icons=true&locale=en" alt="lipika-tech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lipika-tech&" alt="lipika-tech" /></p>
-
+ 
