@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1020"/>
+      <stop offset="0.55" stop-color="#1e1a4a"/>
+      <stop offset="1" stop-color="#0b2a44"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b388ff"/>
+      <stop offset="1" stop-color="#4fc3f7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#b388ff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#b388ff" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .edge { stroke:#7c6cff; stroke-width:1.4; opacity:.35; stroke-dasharray:6 8; animation:flow 3s linear infinite; }
+      .node { fill:#4fc3f7; animation:pulse 2.4s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+      .node.p { fill:#b388ff; }
+      .d1 { animation-delay:.3s } .d2 { animation-delay:.6s } .d3 { animation-delay:.9s } .d4 { animation-delay:1.2s } .d5 { animation-delay:1.5s }
+      .title { font:700 54px 'Segoe UI',Roboto,Arial,sans-serif; fill:url(#txt); }
+      .sub { font:600 26px 'Segoe UI',Roboto,Arial,sans-serif; fill:#e9e8f5; }
+      .chips { font:500 18px 'Segoe UI',Roboto,Arial,sans-serif; fill:#a9a7c8; letter-spacing:1px; }
+      .cursor { fill:#4fc3f7; animation:blink 1s steps(1) infinite; }
+      @keyframes flow { to { stroke-dashoffset:-28; } }
+      @keyframes pulse { 0%,100% { transform:scale(1); opacity:.7 } 50% { transform:scale(1.5); opacity:1 } }
+      @keyframes blink { 50% { opacity:0 } }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+
+  <!-- neural network, right side -->
+  <g transform="translate(830 40)">
+    <circle cx="170" cy="110" r="120" fill="url(#glow)" opacity=".25"/>
+    <g>
+      <line class="edge" x1="30" y1="40" x2="150" y2="20"/><line class="edge" x1="30" y1="40" x2="150" y2="110"/>
+      <line class="edge" x1="30" y1="110" x2="150" y2="20"/><line class="edge" x1="30" y1="110" x2="150" y2="110"/><line class="edge" x1="30" y1="110" x2="150" y2="200"/>
+      <line class="edge" x1="30" y1="180" x2="150" y2="110"/><line class="edge" x1="30" y1="180" x2="150" y2="200"/>
+      <line class="edge" x1="150" y1="20" x2="270" y2="70"/><line class="edge" x1="150" y1="110" x2="270" y2="70"/>
+      <line class="edge" x1="150" y1="110" x2="270" y2="150"/><line class="edge" x1="150" y1="200" x2="270" y2="150"/>
+      <line class="edge" x1="150" y1="20" x2="270" y2="150"/><line class="edge" x1="150" y1="200" x2="270" y2="70"/>
+    </g>
+    <circle class="node" cx="30" cy="40" r="8"/>
+    <circle class="node d1" cx="30" cy="110" r="8"/>
+    <circle class="node d2" cx="30" cy="180" r="8"/>
+    <circle class="node p d3" cx="150" cy="20" r="9"/>
+    <circle class="node p d1" cx="150" cy="110" r="9"/>
+    <circle class="node p d4" cx="150" cy="200" r="9"/>
+    <circle class="node d5" cx="270" cy="70" r="10"/>
+    <circle class="node d2" cx="270" cy="150" r="10"/>
+  </g>
+
+  <text x="60" y="118" class="title">Lipika Sharma</text>
+  <text x="60" y="165" class="sub">AI Consultant <tspan fill="#b388ff">·</tspan> Building intelligent solutions</text>
+  <text x="60" y="222" class="chips">GENAI  ·  AI AGENTS  ·  LLMs  ·  CLAUDE  ·  DATABRICKS  ·  AZURE  ·  AWS</text>
+  <rect x="60" y="244" width="120" height="4" rx="2" fill="url(#txt)"/>
+</svg>
