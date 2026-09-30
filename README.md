@@ -1,6 +1,6 @@
 <p align="center"><img src="./banner.svg" alt="Lipika Sharma - AI Consultant" width="100%"/></p>
 
-<h1 align="center">Hi 👋, I'm Lipika Sharma</h1>
+<h1 align="center">Hi 👋, I'm Lipiika Sharma</h1>
 <h3 align="center">AI Consultant from India 🇮🇳 | Helping businesses turn data into intelligent solutions</h3>
 
 <img align="right" alt="Women in STEM" width="400" src="https://c.tenor.com/2SjSamm8FJoAAAAd/diegodrawsart-women-and-girls-in-science.gif">
