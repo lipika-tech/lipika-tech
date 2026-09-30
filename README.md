@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lipika Sharma</h1>
 <h3 align="center">AI Consultant from India 🇮🇳 | Helping businesses turn data into intelligent solutions</h3>
 
-<img align="right" alt="Women in STEM" width="340" src="./women-in-stem.svg">
+<img align="right" alt="Women in STEM" width="400" src="https://c.tenor.com/2SjSamm8FJoAAAAd/diegodrawsart-women-and-girls-in-science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipika-tech&label=Profile%20views&color=0e75b6&style=flat" alt="lipika-tech" /> </p>
 
@@ -27,10 +27,11 @@
 
 <h3 align="left">Currently exploring:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Claude-AI%20Agents-B388FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-<img src="https://img.shields.io/badge/Databricks-Learning-4FC3F7?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud-B388FF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/AWS-Cloud-4FC3F7?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Claude-B388FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/AI%20Agents-7C6CFF?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Databricks-4FC3F7?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-B388FF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/AWS-4FC3F7?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -57,14 +58,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lipika-tech&show_icons=true&locale=en&theme=radical&bg_color=0f1020&title_color=b388ff&icon_color=4fc3f7&text_color=e9e8f5&hide_border=true" alt="lipika-tech" />
-</p>
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lipika-tech&background=0f1020&ring=b388ff&fire=4fc3f7&currStreakLabel=b388ff&hide_border=true" alt="lipika-tech streak" />
 </p>
 
 ---
