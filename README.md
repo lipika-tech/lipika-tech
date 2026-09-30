@@ -68,14 +68,7 @@
 </p>
 
 <h3 align="left">🏅 Certifications:</h3>
-<table>
-<tr><th></th><th>Certification</th><th>Issuer</th><th>Issued</th></tr>
-<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" height="18"/></td><td><b>Microsoft Certified: Azure AI Apps and Agents Developer Associate</b></td><td>Microsoft</td><td>Jul 2026</td></tr>
-<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" height="18"/></td><td><b>Microsoft Certified Trainer (MCT)</b></td><td>Microsoft</td><td>Jun 2025</td></tr>
-<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" height="18"/></td><td><b>Microsoft Certified: Azure AI Engineer Associate</b></td><td>Microsoft</td><td>Jan 2025</td></tr>
-<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" height="18"/></td><td><b>Microsoft Certified: Azure AI Fundamentals</b></td><td>Microsoft</td><td>Dec 2024</td></tr>
-<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="18" height="18"/></td><td><b>Google Data Analytics</b></td><td>Google</td><td>Oct 2022</td></tr>
-</table>
+<p align="left"><img src="./certifications.svg" alt="Certifications: Azure AI Apps and Agents Developer Associate (Jul 2026), Microsoft Certified Trainer (Jun 2025), Azure AI Engineer Associate (Jan 2025), Azure AI Fundamentals (Dec 2024), Google Data Analytics (Oct 2022)" width="100%"/></p>
 
 ---
 <p align="center"><i>💜 Women in STEM — lift as you climb, and keep the circle moving. 💜</i></p>
