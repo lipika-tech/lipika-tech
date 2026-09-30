@@ -68,7 +68,7 @@
 </p>
 
 <h3 align="left">🏅 Certifications:</h3>
-<p align="left"><img src="./certifications.svg" alt="Certifications: Azure AI Apps and Agents Developer Associate (Jul 2026), Microsoft Certified Trainer (Jun 2025), Azure AI Engineer Associate (Jan 2025), Azure AI Fundamentals (Dec 2024), Google Data Analytics (Oct 2022)" width="100%"/></p>
+<p align="left"><img src="./certificationss.svg" alt="Certifications: Azure AI Apps and Agents Developer Associate (Jul 2026), Microsoft Certified Trainer (Jun 2025), Azure AI Engineer Associate (Jan 2025), Azure AI Fundamentals (Dec 2024), Google Data Analytics (Oct 2022)" width="100%"/></p>
 
 ---
 <p align="center"><i>💜 Women in STEM — lift as you climb, and keep the circle moving. 💜</i></p>
