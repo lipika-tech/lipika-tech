@@ -5,9 +5,7 @@
 
 <img align="right" alt="Women in STEM" width="400" src="https://c.tenor.com/2SjSamm8FJoAAAAd/diegodrawsart-women-and-girls-in-science.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lipika-tech&label=Profile%20views&color=0e75b6&style=flat" alt="lipika-tech" /> </p>
-
-<p align="left"> <a href="https://twitter.com/erlipika" target="blank"><img src="https://img.shields.io/twitter/follow/erlipika?logo=twitter&style=for-the-badge" alt="@erlipika" /></a> </p>
+<p align="left"> <a href="https://twitter.com/erlipika" target="blank"><img src="https://img.shields.io/badge/Follow-%40erlipika-B388FF?style=for-the-badge&logo=x&logoColor=white" alt="@erlipika" /></a> </p>
 
 - 🤖 I work as an **AI Consultant**, designing and delivering AI & data-driven solutions
 
@@ -42,6 +40,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<b>🤖 AI &amp; Agents</b><br/>
+<a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude" alt="claude" title="Claude" width="40" height="40"/></a>
+<a href="https://copilot.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-copilot.svg" alt="Microsoft Copilot" title="Microsoft Copilot" width="40" height="40"/></a>
+<a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" title="GitHub Copilot" width="40" height="40"/></a>
+<a href="https://www.langchain.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain" width="40" height="40"/></a>
+<a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/modelcontextprotocol" alt="Model Context Protocol" title="Model Context Protocol" width="40" height="40"/></a>
+<a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face" width="40" height="40"/></a>
+<br/><br/><b>☁️ Cloud, Data &amp; Dev</b><br/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
@@ -49,7 +55,6 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-<a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude" alt="claude" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
 <a href="https://www.databricks.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/databricks" alt="databricks" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -58,7 +63,19 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40"/></a>
 </p>
+
+<h3 align="left">🏅 Certifications:</h3>
+<table>
+<tr><th></th><th>Certification</th><th>Issuer</th><th>Issued</th></tr>
+<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" height="18"/></td><td><b>Microsoft Certified: Azure AI Apps and Agents Developer Associate</b></td><td>Microsoft</td><td>Jul 2026</td></tr>
+<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" height="18"/></td><td><b>Microsoft Certified Trainer (MCT)</b></td><td>Microsoft</td><td>Jun 2025</td></tr>
+<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" height="18"/></td><td><b>Microsoft Certified: Azure AI Engineer Associate</b></td><td>Microsoft</td><td>Jan 2025</td></tr>
+<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" height="18"/></td><td><b>Microsoft Certified: Azure AI Fundamentals</b></td><td>Microsoft</td><td>Dec 2024</td></tr>
+<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="18" height="18"/></td><td><b>Google Data Analytics</b></td><td>Google</td><td>Oct 2022</td></tr>
+</table>
 
 ---
 <p align="center"><i>💜 Women in STEM — lift as you climb, and keep the circle moving. 💜</i></p>
